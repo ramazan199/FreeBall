@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Her bir level uchun ayri/Level3ObstacleMover.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Her bir level uchun ayri/Level1ObstacleMover.cs" Line="55" Column="4" />
+      <File FileName="Assets/Scripts/Her bir level uchun ayri/Level3ObstacleMover.cs" Line="62" Column="37" />
+      <File FileName="Assets/Scripts/Her bir level uchun ayri/Level5ObstacleMover.cs" Line="65" Column="31" />
+      <File FileName="Assets/Normativ.cs" Line="14" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
