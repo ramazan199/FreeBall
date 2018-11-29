@@ -1,3 +1,3 @@
 # FreeBall
 Game was created using Unity game enginge(language c#).  To play the game download apk file to your android device.
-![Alt text](https://github.com/ramazan199/FreeBall/issues/1#issue-385844497)
+![photo5188699675211967096](https://user-images.githubusercontent.com/34911523/49239897-590c3000-f41d-11e8-8061-1bb3b5bbabf6.jpg)
