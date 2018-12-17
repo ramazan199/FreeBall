@@ -1,5 +1,5 @@
 # FreeBall
-Game was created using Unity game enginge(language c#).  To play the game download apk file to your android device. In this game you simply try to  knock the constantly moving ball out of the ring.
+Game was created using Unity game enginge(language c#). In this game you simply try to  knock the constantly moving ball out of the ring.
 
 some images from the game:
 
